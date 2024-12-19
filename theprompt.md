@@ -1,26 +1,28 @@
-Create a simple portfolio webpage using HTML and CSS. The webpage should have the following features:
+Create a simple portfolio webpage using HTML and CSS.
 
-HTML Structure:
+Create an HTML structure for a portfolio site that has: 1) A picture wallpaper background, 2) a main section with project card elements, each card should have an image, a name heading, 2 paragraph elements describing them, and a description. All of this wrapped in a clickable <a href> tag with the value "cv1.html", 3) an AI search input and button, and a footer area. Link an external style sheet with name "styles2.css", "style4.css" and external JavaScript files "script4.js", and "background.js". Use the id 'background-canvas' for the canvas element and 'result' for the footer div.
 
-A <header> section that includes a navigation bar with links to "Home," "Pages," "System Page," and "Blog."
-A search bar in the navigation that allows users to search for content.
-A main content area with three cards, each representing a project. Each card should have a title and a brief description.
-A <footer> section that includes copyright information, links to "Terms of Service," "Privacy Policy," and "Contact Us," as well as social media icons for Facebook, Twitter, and Instagram.
-Styling:
+Do a webpage that have search bar like google search bar at the middle of the screen with ai gemini integration with api key
+A footer: the footer have results of the ai to show the results in the webpage footer 
 
-Use a background image for the body and sections, ensuring it covers the entire page and is centered.
-Style the header to be fixed at the top with a transparent background and a blur effect.
-Create a flexbox layout for the navigation items and the project cards to ensure they are evenly spaced and centered.
-Style the cards with a fixed width and height, rounded corners, and a subtle shadow effect. Add a hover effect that increases the blur and shadow.
-Ensure the footer has a subtle shadow and is styled to be visually distinct from the main content.
-Typography:
+combine the searchbar webpage with the portfolio webpages (the 5 cards first then the search bar above the footer )
 
-Use a clean, sans-serif font (like Arial) for the entire webpage.
-Set appropriate font sizes and colors for the titles, text, and footer.
-Responsive Design:
+Create an HTML page for a professional-looking employee Cv The CV should include the following sections, with appropriate headings and content:
+A Header: At the very top, I need the person's name, "Youssef ahmed", in a big, noticeable heading. Right underneath that, I want their job title, "Software Developer," in a smaller paragraph.
 
-Ensure the layout is responsive and looks good on different screen sizes.
-Additional Features:
+Contact Info: Then, a section that clearly shows their contact details – like email, phone number, and links to their LinkedIn and GitHub profiles. Let's use a bulleted list for this section to make it clean.
 
-Include hover effects for navigation links and buttons.
-Use CSS properties like backdrop-filter for blurring effects in the header and footer.
+Summary: After that, a short paragraph summarizing who they are and what they're good at.
+
+Work Experience: I need a section listing their past jobs, with each job having its title, company name and dates, and a few bullet points describing what they did there. Let's put at least a couple of jobs in there.
+
+Education: A section that details their degrees, with the degree titles and the university names/dates. Could you add at least two degrees?
+
+Skills: Then, a straightforward bulleted list of the employee’s technical skills – like programming languages and stuff.
+
+Projects: A list of their projects, each with a title and a short description, again using bullet points. Include a couple of projects here.
+
+
+how to make a dynamic background javascript practicles in the webpage by html and css and js
+
+is there is a way to make a letter 'Y' animate in a the card in the webpage in html and css and java script?
