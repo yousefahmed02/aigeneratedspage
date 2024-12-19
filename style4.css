@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  
+  
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color:#000000;
+  width: 300px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #ff000;
+  color: black;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+#result {
+    padding: 10px;
+    width: 100%; /* changed from 400px, so its whole width */
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    text-align: left; /* added this*/
+  }
